@@ -1,0 +1,7 @@
+.main-image .img-caption {
+	opacity: 0.1;
+}
+
+.main-image .img-caption:hover {
+	opacity: 0.7;
+}
