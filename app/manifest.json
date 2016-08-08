@@ -9,7 +9,8 @@
                 "*://www.findproperly.co.uk/*",
                 "*://findproperly.co.uk/*"
             ],
-            "js": ["jquery-3.1.0.min.js", "plugin.js"]
+            "js": ["jquery-3.1.0.min.js", "plugin.js"],
+            "css": ["style.css"]
         }
     ]
 }
