@@ -1,0 +1,15 @@
+{
+    "name": "findproperly-plus",
+    "manifest_version": 2,
+    "version": "1.0.0",
+    "description": "Adds extra functionality to the findproperly.co.uk website.",
+    "content_scripts": [
+        {
+            "matches": [
+                "*://www.findproperly.co.uk/*",
+                "*://findproperly.co.uk/*"
+            ],
+            "js": ["jquery-3.1.0.min.js", "plugin.js"]
+        }
+    ]
+}
